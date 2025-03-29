@@ -1,0 +1,3 @@
+2025-03-22T11:40:07.552+05:30  INFO 2936 --- [fitnessworld] [http-nio-1102-exec-2] c.f.fitnessworld.aspect.LoggingAspect    : Fetching all users...
+2025-03-22T11:40:07.560+05:30  WARN 2936 --- [fitnessworld] [http-nio-1102-exec-2] c.f.fitnessworld.aspect.LoggingAspect    : Unexpected return type: org.springframework.data.domain.PageImpl
+2025-03-22T11:42:06.945+05:30  INFO 2936 --- [fitnessworld] [http-nio-1102-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 1287 ms
